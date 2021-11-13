@@ -1,11 +1,50 @@
-/* Give your page a fun background color */
+* {
+    padding: 0;
+    margin: 0;
 
-/* Make the header and footer a different color from the background */
 
-/* Align the h1 containing your name in the center of the header*/
+}
 
-/* Make your p tag a different color and italic */
+.main{
+  background-color: #105E26;
+  font-family: monospace;
+  color:#000;
+  width 300px;
+  boarder: double;
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
+  padding-left: 1rem;
+  list-style: none;
 
-/* Put a border around your image */
+}
+h1{
+  text-align: center;
+  font-family: monospace;
+}
 
-/* Change the font-family of your list */
+ul{
+  padding-top: .5rem;
+  padding-bottom: .5rem;
+}
+
+li{
+  text-indent: 0.5rem;
+}
+footer{
+  background-color: #CC5500;
+  text-color: #000;
+  padding-top: .5rem;
+  padding-bottom: .5rem;
+  text-indent: 2.5rem;
+  font-family: monospace;
+}
+header{
+  background-color: #CC5500;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+img{
+  border: solid;
+  border-color: #CC5500;
+}
