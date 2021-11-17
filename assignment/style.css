@@ -25,10 +25,12 @@ h1{
 ul{
   padding-top: .5rem;
   padding-bottom: .5rem;
+  font-family: Atlas, Helvetica, serif;
 }
 
 li{
   text-indent: 0.5rem;
+  font-family: Atlas, Helvetica, serif;
 }
 footer{
   background-color: #CC5500;
@@ -48,3 +50,8 @@ img{
   border: solid;
   border-color: #CC5500;
 }
+
+p{
+    color: #FFFFFF;
+    font-style: italic;
+ }
