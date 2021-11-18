@@ -31,6 +31,7 @@ ul{
 li{
   text-indent: 0.5rem;
   font-family: Bradley Hand, Georgia, serif;
+  list-style-type: none;
 }
 footer{
   background-color: #CC5500;
